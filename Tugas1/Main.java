@@ -14,10 +14,6 @@ public class Main
         Scanner input = new Scanner(System.in);
         int menu;
         Bus bis = new Bus();
-        String nama;
-        String hamil;
-        int pilihan, umur;
-        boolean check;
         
         System.out.println("===== BUS TRANS KOETARADJA =====");
         
